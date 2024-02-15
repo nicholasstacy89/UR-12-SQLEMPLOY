@@ -177,8 +177,8 @@ Fulfilling any of the following can add up to 20 points to your grade. Note that
 You are required to submit BOTH of the following for review:
 
 * A walkthrough video demonstrating the functionality of the application.
-
+Posted in submission.
 * The URL of the GitHub repository, with a unique name and a README describing the project.
-
+https://github.com/nicholasstacy89/UR-12-SQLEMPLOY
 - - -
 © 2024 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
